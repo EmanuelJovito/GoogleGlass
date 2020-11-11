@@ -34,3 +34,26 @@ figure.foto-legenda figcaption {
 figure.foto-legenda:hover figcaption{
     opacity: 1;
 }
+
+/* Menu */
+
+nav#menu ul{
+    list-style: none;
+    text-transform: uppercase;
+    position:absolute;
+    top: -20px;
+    right: 0px;
+
+}
+
+nav#menu li{
+    display: inline-block;
+    background-color: #dddddd;
+    padding: 10px;
+             
+}
+
+nav#menu h1{
+    display: none;
+
+}
