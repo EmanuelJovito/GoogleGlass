@@ -16,7 +16,7 @@ figure.foto-legenda {
 figure.foto-legenda img {
     width: 100%;
     height: 100%;
- }
+}
 
 figure.foto-legenda figcaption {
     opacity: 0;
@@ -35,7 +35,7 @@ figure.foto-legenda:hover figcaption{
     opacity: 1;
 }
 
-/* Menu */
+/* Formatação do menu */
 
 nav#menu ul{
     list-style: none;
@@ -43,17 +43,31 @@ nav#menu ul{
     position:absolute;
     top: -20px;
     right: 0px;
-
 }
 
 nav#menu li{
     display: inline-block;
     background-color: #dddddd;
     padding: 10px;
-             
+    margin: 2px;          
+}
+
+nav#menu li:hover{
+    transition: 1s;
+    background-color: #606060;
 }
 
 nav#menu h1{
     display: none;
-
 }
+
+nav#menu a{
+    color: #000000;
+    text-decoration: none;
+}
+ 
+nav#menu a:hover{
+    color: #ffffff;
+    text-decoration: underline;     
+}
+
