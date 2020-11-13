@@ -129,6 +129,19 @@ section#corpo{
     padding-right: 15px;
 }
 
+table#tabelaspec{
+    border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table#tabelaspec td{
+    border: 1px solid #606060;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
 
 aside#lado{
     display: block;
