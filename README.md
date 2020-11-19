@@ -7,9 +7,6 @@
 <br />
 <br />
 
-## ⚙️Como o projeto funciona?
-Informações sobre o Google Glass
-
 ## 👨🏻‍💻Tecnologias usadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
   * HTML5
