@@ -3,7 +3,7 @@
 **Tudo sobre o Google Glass** é uma site que tem como objetivo de mostrar e divulgar informações sobre o Google Glass de forma fácil e rápida.
 <br />
 <br />
-<img src="https://github.com/EmanuelJovito/GoogleGlass/blob/master/_imagens/glass-logo-grd.png">
+<img src="https://github.com/EmanuelJovito/GoogleGlass/blob/master/_imagens/glass-logo-grd">
 <br />
 <br />
 
